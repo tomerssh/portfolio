@@ -4,8 +4,8 @@ export const projects = [
     description: 'Fullstack SPA built using java spring, spring data jpa and mysql for the backend, and angular, angular material for the frontend',
     image: '/images/1.png',
     tags: ['Spring', 'Angular'],
-    source: 'https://coupon-system-new.herokuapp.com',
-    visit: 'https://github.com/tomerssh/CouponSystem',
+    code: 'https://github.com/tomerssh/CouponSystem',
+    visit: 'https://coupon-system-new.herokuapp.com',
     id: 0,
   },
   // {

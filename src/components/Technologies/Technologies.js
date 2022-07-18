@@ -29,7 +29,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             Java Spring <br />
-            MySQL
+            {/* MySQL */}
           </ListParagraph>
         </ListContainer>
       </ListItem>
