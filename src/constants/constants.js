@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/coupons.png',
     tags: ['Spring', 'Angular', 'Angular Material'],
     code: 'https://github.com/tomerssh/CouponSystem',
-    visit: 'https://coupon-system-new.herokuapp.com',
+    visit: 'https://coupon-system-mate.onrender.com',
     id: 0,
   },
   {
